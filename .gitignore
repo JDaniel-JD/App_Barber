@@ -1,0 +1,9 @@
+.expo
+.expo-shared
+.vscode
+node_modules
+app.json
+babel.config.js
+package-lock.json
+package.json
+assets

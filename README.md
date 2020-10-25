@@ -1,2 +1,2 @@
-# App_Barber
-Development of a scheduling application for barbers, made by react-native.
+# App_Barbearia
+Development of an application for scheduling in the barber, made in react-native
